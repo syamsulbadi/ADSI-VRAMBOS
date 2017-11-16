@@ -1,0 +1,2 @@
+# ADSI-VRAMBOS
+VRAMBOS (Virtual Reality Akses Manusia Bebas Osteoporosis) merupakan aplikasi yang berguna untuk mengurangi tingkat penderita osteoporosis di Indonesia terutama kaum lansia dan wanita. Serta dengan menggunakan aplikasi ini dapat memberikan akses yang mudah bagi seluruh manusia (penderita maupun tidak) dengan media virtual untuk menyayangi tulang meraka agar terhindar dari penyakit osteoporosis yang dapat digunakan kapan pun dan dimana pun.
